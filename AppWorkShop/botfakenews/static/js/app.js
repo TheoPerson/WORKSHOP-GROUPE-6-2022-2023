@@ -20,3 +20,4 @@ button.addEventListener('click', () => {
     navigator.clipboard.writeText("tesmaNews")
     button.innerText = "Copy !";
   });
+
